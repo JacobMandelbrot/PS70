@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://JacobMandelbrot.github.io/PS70/sitemap.xml
+User-agent: * Disallow: Sitemap: https://PS70/sitemap.xml
